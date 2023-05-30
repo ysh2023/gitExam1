@@ -1,2 +1,2 @@
-jeju.txt입니다.
+jeju.txt
 
